@@ -10,6 +10,6 @@ public class WhileLoopDemo {
             System.out.println(j);
             j--;
         }while (j >0);
-
+        System.out.println(i);
     }
 }
