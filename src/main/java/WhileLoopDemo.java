@@ -12,4 +12,8 @@ public class WhileLoopDemo {
         }while (j >0);
         System.out.println(i);
     }
+    public void newDemoForGit()
+    {
+        System.out.println("newDemoForGit");
+    }
 }
